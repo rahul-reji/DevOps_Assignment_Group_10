@@ -1,5 +1,6 @@
 #include files to be added here
 import Calculator
+import LeapYear
 
 while(True):
     print("Hello User! What would you like to do today? -\n" \
@@ -17,8 +18,7 @@ while(True):
         Calculator.calculator()
     
     elif select == 2:
-        print(2)
-        # Anju function
+        LeapYear.check()
     
     elif select == 3:
         print(3)
