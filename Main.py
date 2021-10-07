@@ -18,11 +18,10 @@ while(True):
         Calculator.calculator()
     
     elif select == 2:
-        LeapYear.check()
+        PrimeNumber.CheckPrime()
     
     elif select == 3:
-        print(3)
-        # Shwetha function
+        Prime
         
     elif select == 4:
         print(4)
