@@ -6,7 +6,7 @@ import PrimeNumber
 while(True):
     print("Hello User! What would you like to do today? -\n" \
             "1. Calculator\n" \
-            "2. Calculate Factorial\n" \
+            "2. Check if Leap Year or Not\n" \
             "3. Check if Prime or Not\n" \
             "4. Check if Palindrome or Not\n" \
             "5. Exit\n")
