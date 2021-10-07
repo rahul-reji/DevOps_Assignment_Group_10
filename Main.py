@@ -1,6 +1,7 @@
 #include files to be added here
 import Calculator
 import LeapYear
+import PrimeNumber
 
 while(True):
     print("Hello User! What would you like to do today? -\n" \
