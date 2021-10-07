@@ -21,8 +21,7 @@ while(True):
         LeapYear.check()
     
     elif select == 3:
-        print(3)
-        # Shwetha function
+        PrimeNumber.CheckPrime()
         
     elif select == 4:
         print(4)
