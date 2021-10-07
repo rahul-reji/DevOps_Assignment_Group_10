@@ -18,10 +18,10 @@ while(True):
         Calculator.calculator()
     
     elif select == 2:
-        PrimeNumber.CheckPrime()
+        LeapYear.check()
     
     elif select == 3:
-        Prime
+        PrimeNumber.CheckPrime()
         
     elif select == 4:
         print(4)
