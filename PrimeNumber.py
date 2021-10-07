@@ -1,5 +1,7 @@
 # A default function for Prime checking conditions  
 def CheckPrime(n):  
+    # Taking an input number from the user  
+    n = int(input("Enter your input number:"))  
     # Checking that given number is more than 1  
     if n > 1:  
         # Iterating over the given number with for loop  
@@ -14,9 +16,5 @@ def CheckPrime(n):
     # If the given number is 1  
     else:  
         print(n, "is not a prime number")  
-# Taking an input number from the user  
-n = int(input("Enter your input number:"))  
-# Printing result  
-CheckPrime(n)  
 
   
