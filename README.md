@@ -16,4 +16,8 @@ Option 2:Check if Leap year or not:
 
 User can input any year and check if it is leap year or not
 
+Option 3:Check if number is prime or not:
+
+User can input any number and check if it is prime number or not.
+
 
