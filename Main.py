@@ -2,6 +2,7 @@
 import Calculator
 import LeapYear
 import PrimeNumber
+import Palindrome
 
 while(True):
     print("Hello User! What would you like to do today? -\n" \
@@ -25,8 +26,7 @@ while(True):
         PrimeNumber.CheckPrime()
         
     elif select == 4:
-        print(4)
-        # Pawan function 
+        Palindrome.isPalindrome()
 
     elif select == 5:
         quit()
